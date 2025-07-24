@@ -94,7 +94,7 @@ For detailed installation instructions, check the specific README files in each 
 <!-- Space reserved for your web photos -->
 
 ### 🖥️ Desktop View
-*[https://github.com/inkih04/Notes-App/blob/main/notes/Notebook.png]*
+![](https://github.com/inkih04/Notes-App/blob/main/notes/Notebook.png)
 
 ### 📱 Mobile View
 *[Here you can add screenshots of the mobile version]*
