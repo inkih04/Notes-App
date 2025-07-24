@@ -95,15 +95,17 @@ For detailed installation instructions, check the specific README files in each 
 
 ### 🖥️ Desktop View
 ![](https://github.com/inkih04/Notes-App/blob/main/notes/Notebook.png)
+![](https://github.com/inkih04/Notes-App/blob/main/notes/notes.png)
+![](https://github.com/inkih04/Notes-App/blob/main/notes/CreateNote.png)
 
 ### 📱 Mobile View
-*[Here you can add screenshots of the mobile version]*
+*[to be improved]*
 
 ### 👥 Collaboration
-*[Here you can add screenshots showing collaborative functionality]*
+![](https://github.com/inkih04/Notes-App/blob/main/notes/share.png)
 
 ### 📝 Notes Editor
-*[Here you can add screenshots of the notes editor in action]*
+![](https://github.com/inkih04/Notes-App/blob/main/notes/edit.png)
 
 ---
 
