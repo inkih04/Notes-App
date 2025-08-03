@@ -100,11 +100,11 @@ For detailed installation instructions, check the specific README files in each 
 
 
 ### 📱 Mobile View
-<img src="https://github.com/inkih04/Notes-App/blob/main/notes/LoginM.jpg" width="500" height="700">
-<img src="https://github.com/inkih04/Notes-App/blob/main/notes/NotebooksM.jpg" width="5-0" height="700">
-<img src="https://github.com/inkih04/Notes-App/blob/main/notes/SidebarM.jpg" width="500" height="700">
-<img src="https://github.com/inkih04/Notes-App/blob/main/notes/NotesM.jpg" width="500" height="700">
-<img src="https://github.com/inkih04/Notes-App/blob/main/notes/NewNoteM.jpg" width="500" height="700">
+<img src="https://github.com/inkih04/Notes-App/blob/main/notes/LoginM.jpg" width="400" height="800">
+<img src="https://github.com/inkih04/Notes-App/blob/main/notes/NotebooksM.jpg" width="400" height="800">
+<img src="https://github.com/inkih04/Notes-App/blob/main/notes/SidebarM.jpg" width="400" height="800">
+<img src="https://github.com/inkih04/Notes-App/blob/main/notes/NotesM.jpg" width="400" height="800">
+<img src="https://github.com/inkih04/Notes-App/blob/main/notes/NewNoteM.jpg" width="400" height="800">
 
 
 ### 👥 Collaboration
