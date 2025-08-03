@@ -100,7 +100,7 @@ For detailed installation instructions, check the specific README files in each 
 
 
 ### 📱 Mobile View
-<img src="https://github.com/inkih04/Notes-App/blob/main/notes/LoginM.jpg" width="360" height="400">
+<img src="https://github.com/inkih04/Notes-App/blob/main/notes/LoginM.jpg" width="360" height="360">
 <img src="https://github.com/inkih04/Notes-App/blob/main/notes/NotebooksM.jpg" width="360" height="400">
 <img src="https://github.com/inkih04/Notes-App/blob/main/notes/SidebarM.jpg" width="360" height="400">
 <img src="https://github.com/inkih04/Notes-App/blob/main/notes/NotesM.jpg" width="360" height="400">
