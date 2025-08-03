@@ -99,7 +99,11 @@ For detailed installation instructions, check the specific README files in each 
 ![](https://github.com/inkih04/Notes-App/blob/main/notes/CreateNote.png)
 
 ### 📱 Mobile View
-*[to be improved]*
+![](https://github.com/inkih04/Notes-App/blob/main/notes/LoginM.jpg)
+![](https://github.com/inkih04/Notes-App/blob/main/notes/NotebooksM.jpg)
+![](https://github.com/inkih04/Notes-App/blob/main/notes/SidebarM.jpg)
+![](https://github.com/inkih04/Notes-App/blob/main/notes/NotesM.jpg)
+![](https://github.com/inkih04/Notes-App/blob/main/notes/NewNoteM.jpg)
 
 ### 👥 Collaboration
 ![](https://github.com/inkih04/Notes-App/blob/main/notes/share.png)
