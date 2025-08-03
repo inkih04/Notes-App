@@ -98,12 +98,14 @@ For detailed installation instructions, check the specific README files in each 
 ![](https://github.com/inkih04/Notes-App/blob/main/notes/notes.png)
 ![](https://github.com/inkih04/Notes-App/blob/main/notes/CreateNote.png)
 
+
 ### 📱 Mobile View
-![](https://github.com/inkih04/Notes-App/blob/main/notes/LoginM.jpg)
-![](https://github.com/inkih04/Notes-App/blob/main/notes/NotebooksM.jpg)
-![](https://github.com/inkih04/Notes-App/blob/main/notes/SidebarM.jpg)
-![](https://github.com/inkih04/Notes-App/blob/main/notes/NotesM.jpg)
-![](https://github.com/inkih04/Notes-App/blob/main/notes/NewNoteM.jpg)
+<img src="https://github.com/inkih04/Notes-App/blob/main/notes/LoginM.jpg" width="200" height="400">
+<img src="https://github.com/inkih04/Notes-App/blob/main/notes/NotebooksM.jpg" width="200" height="400">
+<img src="https://github.com/inkih04/Notes-App/blob/main/notes/SidebarM.jpg" width="200" height="400">
+<img src="https://github.com/inkih04/Notes-App/blob/main/notes/NotesM.jpg" width="200" height="400">
+<img src="https://github.com/inkih04/Notes-App/blob/main/notes/NewNoteM.jpg" width="200" height="400">
+
 
 ### 👥 Collaboration
 ![](https://github.com/inkih04/Notes-App/blob/main/notes/share.png)
